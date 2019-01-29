@@ -6,6 +6,7 @@ fov:0.0
 gamma:0.0
 viewDistance:0
 guiScale:0
+particles:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
@@ -13,6 +14,7 @@ fpsLimit:1
 difficulty:2
 fancyGraphics:true
 ao:true
+clouds:true
 skin:Default
 lastServer:
 key_key.attack:-100
