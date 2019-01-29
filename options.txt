@@ -13,7 +13,7 @@ advancedOpengl:false
 fpsLimit:1
 difficulty:2
 fancyGraphics:true
-ao:true
+ao:2
 clouds:true
 skin:Default
 lastServer:
@@ -35,6 +35,10 @@ touchscreen:false
 overrideWidth:0
 overrideHeight:0
 heldItemTooltips:true
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
