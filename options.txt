@@ -15,6 +15,7 @@ fancyGraphics:true
 ao:2
 renderClouds:true
 resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
 chatVisibility:0
