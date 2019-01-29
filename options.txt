@@ -8,6 +8,7 @@ anaglyph3d:false
 limitFramerate:false
 difficulty:2
 fancyGraphics:true
+ao:true
 skin:Default
 lastServer:
 key_key.forward:17
