@@ -1,3 +1,4 @@
+version:510
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
@@ -26,7 +27,7 @@ chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
 enableVsync:true
-useVbo:false
+useVbo:true
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true
@@ -49,6 +50,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
+autoJump:true
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
