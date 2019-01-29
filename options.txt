@@ -26,8 +26,11 @@ chatOpacity:1.0
 serverTextures:true
 snooperEnabled:true
 fullscreen:false
-enableVsync:false
+enableVsync:true
 hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+showCape:true
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
