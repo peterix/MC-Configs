@@ -17,6 +17,7 @@ ao:true
 clouds:true
 skin:Default
 lastServer:
+lang:en_US
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
