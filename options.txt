@@ -1,4 +1,4 @@
-version:512
+version:819
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
@@ -18,7 +18,7 @@ renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_US
+lang:en_us
 chatVisibility:0
 chatColors:true
 chatLinks:true
