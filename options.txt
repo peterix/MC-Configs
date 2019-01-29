@@ -6,6 +6,7 @@ viewDistance:0
 guiScale:0
 bobView:true
 anaglyph3d:false
+advancedOpengl:false
 limitFramerate:false
 difficulty:2
 fancyGraphics:true
