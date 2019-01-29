@@ -7,7 +7,7 @@ guiScale:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
-limitFramerate:false
+fpsLimit:false
 difficulty:2
 fancyGraphics:true
 ao:true
