@@ -3,6 +3,7 @@ sound:1.0
 invertYMouse:false
 mouseSensitivity:0.5
 viewDistance:0
+guiScale:0
 bobView:true
 anaglyph3d:false
 limitFramerate:false
@@ -18,6 +19,6 @@ key_key.right:32
 key_key.jump:57
 key_key.sneak:42
 key_key.drop:16
-key_key.inventory:23
+key_key.inventory:18
 key_key.chat:20
 key_key.fog:33
