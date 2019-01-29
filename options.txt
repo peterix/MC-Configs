@@ -8,6 +8,7 @@ anaglyph3d:false
 limitFramerate:false
 difficulty:2
 fancyGraphics:true
+skin:Default
 key_Forward:17
 key_Left:30
 key_Back:31
