@@ -17,5 +17,3 @@ key_Drop:16
 key_Inventory:23
 key_Chat:20
 key_Toggle fog:33
-key_Save location:28
-key_Load location:19
