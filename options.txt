@@ -32,6 +32,9 @@ advancedItemTooltips:false
 pauseOnLostFocus:true
 showCape:true
 touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
