@@ -2,6 +2,8 @@ music:1.0
 sound:1.0
 invertYMouse:false
 mouseSensitivity:0.5
+fov:0.0
+gamma:0.0
 viewDistance:0
 guiScale:0
 bobView:true
@@ -13,6 +15,8 @@ fancyGraphics:true
 ao:true
 skin:Default
 lastServer:
+key_key.attack:-100
+key_key.use:-99
 key_key.forward:17
 key_key.left:30
 key_key.back:31
@@ -22,4 +26,5 @@ key_key.sneak:42
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
-key_key.fog:33
+key_key.playerlist:15
+key_key.pickItem:-98
